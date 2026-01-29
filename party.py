@@ -1,5 +1,5 @@
 
 
-SPOTIPY_API_KEY = "fsjegkj43iurejknfrehrt4n4t"
+SPOTIFY_API_KEY = ""
 
-print(SPOTIPY_API_KEY)
+print(SPOTIFY_API_KEY)
