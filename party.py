@@ -1,5 +1,3 @@
-
-
 SPOTIFY_API_KEY = ""
 
 print(SPOTIFY_API_KEY)
